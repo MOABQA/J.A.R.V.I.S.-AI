@@ -1,7 +1,4 @@
 
-Here's a concise README.md for your J.A.R.V.I.S. project:
-
-markdown
 # J.A.R.V.I.S. Voice Assistant
 
 A Python-based voice assistant inspired by Iron Man's J.A.R.V.I.S., allowing voice commands for various tasks like web browsing, playing music, and basic calculations.
@@ -47,9 +44,9 @@ Say "Jarvis" followed by your command (e.g., "Jarvis, open Google").
 ## Known Limitations
 - Speech recognition might not work perfectly in environments with high background noise.
 - The music feature requires you to define a correct music_path.
--Some commands like 'classroom' links need to be replaced with actual URLs.
+- Some commands like 'classroom' links need to be replaced with actual URLs.
 
-##Customization
+## Customization
 Voice Settings: Modify the properties in the 'VOICE SETUP' section of the code for different voice effects.
 Commands: Add or modify entries in the websites or apps dictionaries to personalize what J.A.R.V.I.S. can do for you.
 
