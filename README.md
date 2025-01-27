@@ -28,12 +28,13 @@ You can install the necessary libraries using pip:
 pip install speech_recognition pyttsx3 pyautogui
 
 ## How to Use
+
 **Clone the Repository:**
 
-```bash```
-
-git clone <your-repo-url>
-
+```bash
+bash
+$ git clone <your-repo-url>
+```
 **Navigate to the Project Directory:**
 
 ```bash```
