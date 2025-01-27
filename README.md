@@ -28,14 +28,20 @@ You can install the necessary libraries using pip:
 pip install speech_recognition pyttsx3 pyautogui
 
 ## How to Use
+
 **Clone the Repository:**
 ```bash```
+
 git clone <your-repo-url>
+
 **Navigate to the Project Directory:**
 ```bash```
+
 cd JARVIS-Voice-Assistant
+
 **Run the Script:**
 ```bash```
+
 python main.py
 
 Ensure your microphone is set up correctly for voice recognition.
