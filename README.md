@@ -45,7 +45,27 @@ python main.py
 ```
 Ensure your microphone is set up correctly for voice recognition.
 ## Interact with J.A.R.V.I.S.:
-Say "Jarvis" followed by your command (e.g., "Jarvis, open Google").
+
+**Activate J.A.R.V.I.S.:** 
+Start any command with "Jarvis". For example, say "Jarvis" followed by your command like:
+- "Jarvis, open Google" to launch the Google homepage.
+- "Jarvis, play music" to start playing songs from your defined music folder.
+- "Jarvis, what's the time?" to hear the current time.
+**Common Commands:**
+- Open Websites: Say "Jarvis, open [website name]" (e.g., YouTube, Google).
+- Launch Applications: Say "Jarvis, open [application name]" (e.g., Calculator, PowerPoint). Ensure the application names match those on your system.
+- Basic Calculations: Say "Jarvis, what is [number] plus/minus/times/divided by [number]?"
+- Check Date and Time: Use commands like "Jarvis, what day is today?" or "Jarvis, tell me the date."
+
+**Tips for Best Use:**
+
+- Voice Recognition: Speak clearly and at a moderate pace. Background noise can affect recognition accuracy, so consider using this in a quiet environment.
+Customization: Before running, you might want to adjust the music_path in the script to point to your music directory for the music feature to work correctly.
+- Command Accuracy: If J.A.R.V.I.S. does not recognize your command, try rephrasing or speaking more distinctly.
+
+**Troubleshooting:**
+
+If commands aren't working, check your microphone settings or ensure the necessary applications and websites are correctly configured or linked in the script.
 
 ## Known Limitations
 - Speech recognition might not work perfectly in environments with high background noise.
