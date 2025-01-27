@@ -27,39 +27,37 @@ A Python-based voice assistant inspired by Iron Man's J.A.R.V.I.S., allowing voi
   
 You can install the necessary libraries using pip:
 
-bash
+```bash```
 pip install speech_recognition pyttsx3 pyautogui
 
-How to Use
+## How to Use
 Clone the Repository:
-bash
+```bash```
 git clone <your-repo-url>
 Navigate to the Project Directory:
-bash
+```bash```
 cd JARVIS-Voice-Assistant
 Run the Script:
-bash
+```bash```
 python main.py
 Ensure your microphone is set up correctly for voice recognition.
 Interact with J.A.R.V.I.S.:
 Say "Jarvis" followed by your command (e.g., "Jarvis, open Google").
 
-Known Limitations
-Speech recognition might not work perfectly in environments with high background noise.
-The music feature requires you to define a correct music_path.
-Some commands like 'classroom' links need to be replaced with actual URLs.
+## Known Limitations
+- Speech recognition might not work perfectly in environments with high background noise.
+- The music feature requires you to define a correct music_path.
+-Some commands like 'classroom' links need to be replaced with actual URLs.
 
-Customization
+##Customization
 Voice Settings: Modify the properties in the 'VOICE SETUP' section of the code for different voice effects.
 Commands: Add or modify entries in the websites or apps dictionaries to personalize what J.A.R.V.I.S. can do for you.
 
-License
+## License
 This project is open source under the MIT License (LICENSE).
 
-Acknowledgements
+## Acknowledgements
 This project was inspired by the J.A.R.V.I.S. AI from the Marvel Cinematic Universe's Iron Man series.
 Thanks to the creators of the libraries used.
 
 Feel free to contribute, suggest enhancements, or report issues!
-
-This `README.md` provides an overview of the project, how to set it up, use it, customize it, and where to find more information. Adjust the paths or specifics according to your actual setup.
