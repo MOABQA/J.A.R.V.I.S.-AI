@@ -32,8 +32,7 @@ pip install speech_recognition pyttsx3 pyautogui
 **Clone the Repository:**
 
 ```bash
-bash
-$ git clone <your-repo-url>
+git clone <your-repo-url>
 ```
 **Navigate to the Project Directory:**
 
