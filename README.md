@@ -47,6 +47,7 @@ Ensure your microphone is set up correctly for voice recognition.
 ## Interact with J.A.R.V.I.S.:
 
 **Activate J.A.R.V.I.S.:** 
+
 Start any command with "Jarvis". For example, say "Jarvis" followed by your command like:
 - "Jarvis, open Google" to launch the Google homepage.
 - "Jarvis, play music" to start playing songs from your defined music folder.
@@ -61,6 +62,7 @@ Start any command with "Jarvis". For example, say "Jarvis" followed by your comm
 
 - Voice Recognition: Speak clearly and at a moderate pace. Background noise can affect recognition accuracy, so consider using this in a quiet environment.
 Customization: Before running, you might want to adjust the music_path in the script to point to your music directory for the music feature to work correctly.
+
 - Command Accuracy: If J.A.R.V.I.S. does not recognize your command, try rephrasing or speaking more distinctly.
 
 **Troubleshooting:**
